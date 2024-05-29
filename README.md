@@ -20,4 +20,4 @@ To run this program, you'll need several API keys. Register for your API keys by
 
 ## Colab Notebook
 
-- [Colab](https://colab.research.google.com/drive/17YY_ZhijjEn6cSm45IXRWhUGGUxM2-bl#scrollTo=3EjVqn8KFIgP)
+- [Colab](https://colab.research.google.com/drive/17YY_ZhijjEn6cSm45IXRWhUGGUxM2-bl?usp=sharing)
